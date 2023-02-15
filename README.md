@@ -1,0 +1,1 @@
+This is just a storage for [`anychan`](https://gitlab.com/catamphetamine/anychan)-related art.
